@@ -1,7 +1,17 @@
 package hu.petrik.PontOOP.pont;
 
 public class Pont {
-    public static void main(String[] args) {
-        
+    private int x;
+    private int y;
+
+    public Pont() {
+        x = 0;
+        y = 0;
+
+    }
+
+    public Pont(int x, int y){
+        this.x = x;
+        this.y = y;
     }
 }

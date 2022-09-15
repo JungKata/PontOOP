@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Feladat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Feladat1.java" afterDir="false" />
+    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="pont">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Feladat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EnFSFKLvpFo7CYqX1TvkLw2wjO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663223439095</updated>
     </task>
+    <task id="LOCAL-00001" summary="pont">
+      <created>1663223996089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663223996089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pont" />
+    <option name="LAST_COMMIT_MESSAGE" value="pont" />
   </component>
 </project>
