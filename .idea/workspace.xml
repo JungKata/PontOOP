@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Pont osztály&#10;-pont távolság az origotól">
+    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Pont osztály&#10;-pont távolság az origotól, kiirás">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663226821740</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pont osztály&#10;-pont távolság az origotól, kiirás">
+      <created>1663227319241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663227319241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +122,7 @@
     <MESSAGE value="Pont osztály&#10;-adattagok&#10;-konstruktorok" />
     <MESSAGE value="Pont osztály&#10;-adattagok&#10;-konstruktorok&#10;-meghívás" />
     <MESSAGE value="Pont osztály&#10;-pont távolság az origotól" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pont osztály&#10;-pont távolság az origotól" />
+    <MESSAGE value="Pont osztály&#10;-pont távolság az origotól, kiirás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pont osztály&#10;-pont távolság az origotól, kiirás" />
   </component>
 </project>

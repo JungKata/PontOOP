@@ -30,6 +30,10 @@ public class Main {
                 legTavolabbiPontIndex = i;
             }
         }
-        System.out.printf("A legtávolabbi pont az origotól a(z) %d. pont, kordinátái: %s, origotól mért távolság: %.3f", (legTavolabbiPontIndex+1),pontok[legTavolabbiPontIndex], pontok[legTavolabbiPontIndex].getOrigitolMertTavolsag());
+        System.out.printf("A legtávolabbi pont az origotól a(z) %d. pont, kordinátái: %s, origotól mért távolság: %.3f˛\n", (legTavolabbiPontIndex+1),pontok[legTavolabbiPontIndex], pontok[legTavolabbiPontIndex].getOrigitolMertTavolsag());
+
+        System.out.printf("Az egyik pont: %s a másik pont: %s a kettő távolsága: %.3f\n", p3, p4, p3.length(p4));
+
+        System.out.printf("Ez a pont a " + p4.siknegyed() + " síknegyedben van");
     }
 }
