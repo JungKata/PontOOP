@@ -1,6 +1,6 @@
-package hu.petrik.PontOOP;
+package hu.petrik.PontOOP.pont;
 
-public class Feladat1 {
+public class Pont {
     public static void main(String[] args) {
         
     }
