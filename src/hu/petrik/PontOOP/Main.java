@@ -22,5 +22,14 @@ public class Main {
         {
             System.out.println(p);
         }
+
+        //Origotól legtávolabb eső pont - maximum kiválasztás
+        int legTavolabbiPontIndex = 0;
+        for (int i = 1; i < pontok.length; i++) {
+            if (pontok[legTavolabbiPontIndex].getOrigitolMertTavolsag() < pontok[i].getOrigitolMertTavolsag()){
+                legTavolabbiPontIndex = i;
+            }
+        }
+        System.out.printf("A legtávolabbi pont az origotól a(z) %d. pont, kordinátái: %s, origotól mért távolság: %.3f", (legTavolabbiPontIndex+1),pontok[legTavolabbiPontIndex], pontok[legTavolabbiPontIndex].getOrigitolMertTavolsag());
     }
 }
