@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="pont">
+    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Pont osztály&#10;-adattagok&#10;-konstruktorok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Feladat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/pont/Pont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hu.petrik.PontOOP.Main" />
+      <module name="PontOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hu.petrik.PontOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663223996089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pont osztály&#10;-adattagok&#10;-konstruktorok">
+      <created>1663224367652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663224367652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pont" />
-    <option name="LAST_COMMIT_MESSAGE" value="pont" />
+    <MESSAGE value="Pont osztály&#10;-adattagok&#10;-konstruktorok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pont osztály&#10;-adattagok&#10;-konstruktorok" />
   </component>
 </project>
