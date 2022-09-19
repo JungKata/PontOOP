@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Kor osztály&#10;-valtozok&#10;-inicializálás">
+    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Kor osztály&#10;-valtozok&#10;-inicializálás&#10;-kiirás">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Kor/Kor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Kor/Kor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663613306406</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Kor osztály&#10;-valtozok&#10;-inicializálás&#10;-kiirás">
+      <created>1663614729058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663614729058</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +153,7 @@
     <MESSAGE value="Pont osztály&#10;-pont távolság az origotól, kiirás" />
     <MESSAGE value="Pont osztály&#10;-kész" />
     <MESSAGE value="Kor osztály&#10;-valtozok&#10;-inicializálás" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kor osztály&#10;-valtozok&#10;-inicializálás" />
+    <MESSAGE value="Kor osztály&#10;-valtozok&#10;-inicializálás&#10;-kiirás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kor osztály&#10;-valtozok&#10;-inicializálás&#10;-kiirás" />
   </component>
 </project>

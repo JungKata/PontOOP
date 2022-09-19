@@ -44,10 +44,16 @@ public class Kor {
         this.y = y;
     }
 
-    public double k(){
+    public double kerulet(){
         var kerulet = 2 * s * Math.PI;
         return kerulet;
         // 2 * sugár --> atmérő * pi
+    }
+
+    public double terulet()
+    {
+        var terulet = Math.pow(s, 2) * Math.PI;
+        return terulet;
     }
 
     @Override

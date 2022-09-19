@@ -48,7 +48,23 @@ public class Main {
 
         System.out.println(k1);
         System.out.println(k2);
-        System.out.println(k3);
+        //System.out.println(k3);
+
+        //kerület kiirás
+        System.out.printf("A kör kerülete: %.2f cm\n", k3.kerulet());
+        System.out.printf("A kör területe: %.2f cm^2\n", k3.terulet());
+
+        //sugar megadasa alapjan
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Kérem adja meg a kör sugaranak szamat a tovabbi szamitasokhoz: ");
+        int bekertSzam = Integer.parseInt(sc.nextLine());
+        k3.setS(bekertSzam);
+        System.out.printf(" A kör mérete: %d", bekertSzam);
+
+        //10 pédány létrehozása és a legnagyobb kiirása
+
+
+
     }
 
 
