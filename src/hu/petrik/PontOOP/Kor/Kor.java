@@ -12,7 +12,12 @@ public class Kor {
     y = 0;
     }
 
-
+    public Kor(double s, int x, int y)
+    {
+        this.s = s;
+        this.x = x;
+        this.y = y;
+    }
 
 
 
