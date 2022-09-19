@@ -1,5 +1,6 @@
 package hu.petrik.PontOOP.Kor;
 
+
 public class Kor {
     private double s;
     private int x;
@@ -19,6 +20,39 @@ public class Kor {
         this.y = y;
     }
 
+    public double getS() {
+        return s;
+    }
 
+    public void setS(double s) {
+        this.s = s;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    public double k(){
+        var kerulet = 2 * s * Math.PI;
+        return kerulet;
+        // 2 * sugár --> atmérő * pi
+    }
+
+    @Override
+    public String toString() {
+        return String.format("(%f, %d, %d)" ,this.s, this.x, this.y);
+    }
 
 }

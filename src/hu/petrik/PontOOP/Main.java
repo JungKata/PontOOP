@@ -2,6 +2,8 @@ package hu.petrik.PontOOP;
 
 import hu.petrik.PontOOP.pont.Pont;
 import hu.petrik.PontOOP.Kor.Kor;
+import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -35,6 +37,21 @@ public class Main {
 
         System.out.printf("Az egyik pont: %s a másik pont: %s a kettő távolsága: %.3f\n", p3, p4, p3.length(p4));
 
-        System.out.printf("Ez a pont a " + p4.siknegyed() + " síknegyedben van");
+        System.out.printf("Ez a pont a " + p4.siknegyed() + " síknegyedben van\n");
+
+        Kor k1 = new Kor(3, 4 , 5);
+        //minden pont adott
+        Kor k2 = new Kor(4);
+        //sugar alapu
+        Kor k3 = new Kor((Math.random()*100)+1);
+        //véletlenszerű
+
+        System.out.println(k1);
+        System.out.println(k2);
+        System.out.println(k3);
     }
+
+
+
+
 }

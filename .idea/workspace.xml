@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Pont osztály&#10;-kész">
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Kor/Kor.java" afterDir="false" />
+    <list default="true" id="23d6c8fa-29f1-4ac5-82ab-a0701a8f9163" name="Changes" comment="Kor osztály&#10;-valtozok&#10;-inicializálás">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Kor/Kor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Kor/Kor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/PontOOP/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663231144436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kor osztály&#10;-valtozok&#10;-inicializálás">
+      <created>1663613184459</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663613184459</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kor osztály&#10;-valtozok&#10;-inicializálás">
+      <created>1663613306406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663613306406</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +145,7 @@
     <MESSAGE value="Pont osztály&#10;-pont távolság az origotól" />
     <MESSAGE value="Pont osztály&#10;-pont távolság az origotól, kiirás" />
     <MESSAGE value="Pont osztály&#10;-kész" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pont osztály&#10;-kész" />
+    <MESSAGE value="Kor osztály&#10;-valtozok&#10;-inicializálás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kor osztály&#10;-valtozok&#10;-inicializálás" />
   </component>
 </project>
