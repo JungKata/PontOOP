@@ -1,6 +1,7 @@
 package hu.petrik.PontOOP;
 
 import hu.petrik.PontOOP.pont.Pont;
+import hu.petrik.PontOOP.Kor.Kor;
 
 public class Main {
     public static void main(String[] args) {
