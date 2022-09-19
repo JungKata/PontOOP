@@ -63,8 +63,22 @@ public class Main {
 
         //10 pédány létrehozása és a legnagyobb kiirása
 
+        double legnagyobbTerulet = 0;
+        Kor[] korok = new Kor[10];
+        for (int i = 0; i < korok.length; i++) {
+            korok[i] = new Kor((Math.random()*100)+1);
+        }
 
+        for (Kor peldany : korok){
+            System.out.println(peldany);
+        }
 
+        for (int i = 0; i < korok.length; i++) {
+            if(korok[i].terulet() > legnagyobbTerulet){
+                legnagyobbTerulet = korok[i].terulet();
+            }
+        }
+        System.out.printf("\n Legnagyobb kör területe: %.2f cm^2", legnagyobbTerulet);
     }
 
 
